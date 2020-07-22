@@ -1,0 +1,63 @@
+.CentreText {
+  color: black;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-weight: 700;
+  font-size: large;
+}
+.RegisterText {
+  color: black;
+  /* border: 2px solid black; */
+  margin: 20px;
+  padding: 20px;
+  text-align: center;
+  font-size: large;
+}
+.Textbold {
+  color: black;
+  border: 2px solid black;
+
+  padding: 20px;
+  font-weight: 700;
+  font-size: large;
+  text-align: center;
+}
+/* table {
+  border: 2px solid black;
+  padding: 20px;
+} */
+.TableFormat {
+  margin: 20px;
+  /* border: 2px solid black; */
+  display: inline-table;
+}
+.actionLink {
+  margin: 20px;
+  padding-left: 50%;
+  display: inline;
+}
+a {
+  border: 2px solid black;
+  margin: 20px;
+  padding: 5%;
+}
+tr {
+  border: 2px solid black;
+  margin: 20px;
+}
+.SpaceAndMargin {
+  margin: 20px;
+}
+.MarginButt {
+  margin: 2px;
+}
+.TitleAlignment {
+  border: 2px solid black;
+  margin: 2px;
+  text-align: center;
+}
+.ButtAlignment {
+  padding-left: 82%;
+}
